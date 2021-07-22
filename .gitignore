@@ -1,0 +1,8 @@
+tables.c
+*.a
+*.so
+*.o
+test
+*.gcov
+*.gcda
+*.gcno
